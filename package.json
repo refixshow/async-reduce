@@ -1,0 +1,19 @@
+{
+  "name": "promise-reduce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "PromiseReduce.ts",
+  "scripts": {
+    "start": "node PromiseReduce.ts",
+    "dev": "nodemon PromiseReduce.ts",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jest": "^26.0.15",
+    "nodemon": "^2.0.6",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.1.2"
+  }
+}
